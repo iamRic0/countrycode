@@ -1,3 +1,31 @@
+## set up locally
+
+install backend  dependencies 
+
+` npm i  `
+
+
+to run backend 
+
+` node server.js  `
+
+install frontend  dependencies 
+`cd client`
+` npm i  `
+
+
+if nodemon is installed
+
+` nodemon server.js  `
+
+to run frontend
+
+`cd client`
+`npm start`
+
+
+## API endpoint
+
 ### /api/newpost GET
 
 ```
