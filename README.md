@@ -10,7 +10,7 @@ to run backend
 ` node server.js  `
 
 install frontend  dependencies 
-`cd client`
+`cd client` <br>
 ` npm i  `
 
 
@@ -21,6 +21,7 @@ if nodemon is installed
 to run frontend
 
 `cd client`
+<br>
 `npm start`
 
 
